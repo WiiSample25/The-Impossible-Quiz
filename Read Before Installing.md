@@ -12,4 +12,4 @@ Download Instructions
 -  Navigate to the WAD Installer page and choose your current device connected to your console.
 -  Find the WAD you downloaded on this page, and then install it!
 
-In just four easy steps, You'll be playing that WAD in no-time!
+Dolphin Emulator is also supported! Just make sure you know what you are doing!
